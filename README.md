@@ -113,9 +113,9 @@ Please ensure your contributions adhere to the existing code style and include a
 
 If you have any questions, suggestions, or feedback, feel free to reach out! You can contact **Vivek Dadhaniya** via:
 
-- **GitHub:** [https://github.com/your_username](https://github.com/0xRogueX) 🐙
-- **LinkedIn:** [0xRogueX](https://www.linkedin.com/in/vivekdadhaniya/) 💼
-- **Discord:** [0xRogueX](https://discord.com/users/1073565428233801738) 🎮
+- **GitHub:** [0xRogueX](https://github.com/0xRogueX) 🐙
+- **LinkedIn:** [Vivek Dadhaniya](https://www.linkedin.com/in/vivekdadhaniya/) 💼
+- **Discord:** [Vivek Dadhaniya](https://discord.com/users/1073565428233801738) 🎮
 
 --- 
 
