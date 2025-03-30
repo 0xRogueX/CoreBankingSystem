@@ -116,7 +116,3 @@ If you have any questions, suggestions, or feedback, feel free to reach out! You
 - **GitHub:** [0xRogueX](https://github.com/0xRogueX) 🐙
 - **LinkedIn:** [Vivek Dadhaniya](https://www.linkedin.com/in/vivekdadhaniya/) 💼
 - **Discord:** [Vivek Dadhaniya](https://discord.com/users/1073565428233801738) 🎮
-
---- 
-
-This enhanced version now includes emojis to help highlight key sections and make the README more engaging!
